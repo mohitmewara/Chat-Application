@@ -1,7 +1,7 @@
 # Chat-Application
 
 Project: Internet Chat Application
-Authors: Mohit Mewara(84132114) and Hadi Abdullah(31371031)
+Authors: Mohit Mewara
 Date: Nov 26 2016
 Language: Java 8
 
